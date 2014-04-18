@@ -6,6 +6,7 @@
  * @since 1.0
  * @author Matthew Hansen
  */
+
 if( !is_admin() ) :
   if( !function_exists( 'ot_load_wireframe_css' ) ) :
     function ot_load_wireframe_css() {

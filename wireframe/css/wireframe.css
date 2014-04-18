@@ -1,0 +1,21 @@
+body {
+  background-color: #335c64;
+  color: #999999;
+}
+
+.wireframe-background-1{
+  background-color: #cccccc;
+}
+
+.wireframe-background-2{
+  background-color: #e5e5e5;
+}
+
+.wireframe-background-3 {
+  background-color: #ffffff;
+}
+
+.row {
+  padding-bottom:20px;
+  padding-top:20px;
+}
